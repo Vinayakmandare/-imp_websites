@@ -1,0 +1,67 @@
+body{
+	 background-image:url("D:\\Computer Hacks\\HTML\\HTML Projects\\Important websites\\giphy.gif");
+	 background-repeat:no-repeat;
+	 background-position:center;
+                   background-attachment:fixed;
+background-size:40%;
+  
+  
+}
+h1 {
+  
+  text-align:center;
+ 
+}
+p{
+	color:red;
+	text-align:center;
+}
+button{
+	margin-left:650px;
+	background-color:green;
+                   border-color:red;
+	cursor:pointer;
+	
+}
+li:hover{
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  padding:8px;
+}
+
+button:hover{
+background-color:blue;
+}
+#button1{
+background-color:red;
+border-color:green;
+}
+#button1:hover{
+background-color:blue;
+}
+#mar{
+font-size:150%;
+color:red;
+}
+#welcome:hover{
+color:red;
+background-position:top-left;
+}
+nav{
+display:flex;
+
+}
+

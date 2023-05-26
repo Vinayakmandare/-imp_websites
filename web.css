@@ -1,0 +1,20 @@
+body{
+ background-image:url("D:\\Computer Hacks\\HTML\\HTML Projects\\Important websites\\giphy.gif");
+  background-repeat:no-repeat;
+	 background-position:center;
+               background-attachment: fixed;
+  
+}
+ #button:hover{
+   background-color:blue;
+   }
+   #button{
+   background-color:green;
+   border-color:red;
+   cursor:pointer;
+   color:white;
+   
+   }
+#purple{
+color:blue;
+}
